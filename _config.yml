@@ -17,9 +17,9 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: '孔奥阳'
+nickname: '孔十二'
+bio: '前端开发者，热爱技术&设计'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -30,7 +30,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
