@@ -12,7 +12,7 @@ nav:
   home: '/'
   tags: '/tags.html'
   about: '/about.html'
-  archives: '/archives'
+  archives: '/archives.html'
 
 # Footer
 footer:
