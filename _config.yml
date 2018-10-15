@@ -2,7 +2,7 @@
 title: '孔十二的个人博客'
 description: '这是一个人网站'
 keyword: '孔十二, 孔十二的博客, 前端, 前端开发'
-url: 'http://liaokeyu.com' # your host
+url: 'https://kaoyang.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
