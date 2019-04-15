@@ -33,7 +33,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: flase
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
